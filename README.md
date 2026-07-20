@@ -84,7 +84,7 @@ A full stack bookstore application with user and database functionality.
 
 ## Experience
 
-### Frontend Developer Intern – EatLikeThis
+### Developer Intern – EatLikeThis
 
 * Built frontend features using React, Next.js, and Expo.
 * Worked in an agile, ticket-based development environment.
