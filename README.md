@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web Development student with a passion for building modern web applications and exploring AI and cloud technologies. I enjoy creating projects that combine thoughtful design with practical problem-solving, from travel platforms to AI-powered applications.
 
-* 🎓 B.Sc. Computer Science, graduated 2026)
+* 🎓 B.Sc. Computer Science, graduated 2026
 * 🔭 I’m currently working on personal full stack and AI-related projects.
 * 🌱 I’m currently learning more about cloud technologies, DevOps, and Large Language Models (LLMs).
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ester-hugosson-9997041a0/)
